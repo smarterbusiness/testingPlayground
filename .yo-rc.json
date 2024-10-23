@@ -1,0 +1,21 @@
+{
+  "@microsoft/generator-sharepoint": {
+    "plusBeta": false,
+    "isCreatingSolution": true,
+    "nodeVersion": "18.20.3",
+    "sdksVersions": {
+      "@microsoft/microsoft-graph-client": "3.0.2",
+      "@microsoft/teams-js": "2.24.0"
+    },
+    "version": "1.20.0",
+    "libraryName": "playwright-test",
+    "libraryId": "47f6ae39-5f23-4cca-a4b5-63e7069e8438",
+    "environment": "spo",
+    "packageManager": "npm",
+    "solutionName": "playwright-test",
+    "solutionShortDescription": "playwright-test description",
+    "skipFeatureDeployment": true,
+    "isDomainIsolated": false,
+    "componentType": "webpart"
+  }
+}
