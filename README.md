@@ -10,6 +10,7 @@ Short summary on functionality and used technologies.
 
 ![version](https://img.shields.io/badge/version-1.20.0-green.svg)
 
+
 ## Applies to
 
 - [SharePoint Framework](https://aka.ms/spfx)
